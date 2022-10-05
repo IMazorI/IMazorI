@@ -14,16 +14,25 @@ Here are some ideas to get you started:
 -->
 ### Olá, Visitantes 👋
 
-### Eu sou o Gustavo, sou estudante de Programaçao da Instituiçao SENAC-SP
+### Eu sou o Gustavo, tenho 26 anos, sou estudante de Programaçao da Instituiçao SENAC-SP
 
 Atualmente trabalho em uma loja de Informatica e estou à ingressar no mercado de Programaçao.
 
-Fundamentos conhecidos:
-- Programaçao C#
-- Banco de dados SQL Server
-- HTML
-- CSS  
-- WordPress
+<a href="https://github.com/Thiago-Henriqe">
+  <img height="180em" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/>
+
+### Fundamentos conhecidos <br>
+
+   Programaçao C#     
+   Banco de dados SQL Server   
+   FrontEnd 
+   HTML 
+   CSS   
+   WordPress   
+   BackEnd 
+   QuerryString 
+   Session 
+   Cookie 
 
 
 
