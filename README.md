@@ -1,27 +1,20 @@
 <!--
 **IMazorI/IMazorI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ### Olá, Visitantes 👋
-
-### Eu sou o Gustavo, tenho 26 anos, sou estudante de Programaçao da Instituiçao SENAC-SP
-
-Atualmente trabalho em uma loja de Informatica e estou à ingressar no mercado de Programaçao.
-
-
-     
-          
+    
   <img align="center" height="180em" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/>
+
+- 👋 eu sou o GUSTAVO
+- 🔭 Estudante Analise e desenvolvimento de sistemas - UNISANTOS Santos-SP
+- 🎓 Formacao Tecnico de Informatica - SENAC santos-SP
+- 🌱 Estou aprendendo atualemnte JAVASCRIPT, TYPERSCRIPT, NODE.JS - Curso Udemy
+- 👯 Procurando por estagio como desenvolvedor
+- 🤔 
+- 💬 Ask me about 
+- 📫 How to reach me: https://www.linkedin.com/in/gustavo-maziero-9858aa2a0/
+- 😄 
+- ⚡ 
   
   
 
