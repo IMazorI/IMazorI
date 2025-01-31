@@ -11,7 +11,7 @@
 - 🌱 Estou aprendendo atualemnte JAVASCRIPT, TYPERSCRIPT, NODE.JS - Curso Udemy
 - 👯 Procurando por estagio como desenvolvedor
 - 🤔 
-- 💬 Ask me about 
+- 💬 Ask me about: gmaziero@Outlook.com
 - 📫 How to reach me: https://www.linkedin.com/in/gustavo-maziero-9858aa2a0/
 - 😄 
 - ⚡ 
